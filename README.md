@@ -1,2 +1,2 @@
 # project-euler-solutions
-Solutions for applying on Haskell Junior position at Ramotion
+Solutions in Scala 3 for applying on Haskell Junior position at Ramotion
